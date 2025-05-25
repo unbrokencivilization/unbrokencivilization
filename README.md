@@ -3,12 +3,12 @@
 </div>
 
 <h1 align="center">Ibrohim Ruzmetov</h1>
-<h3 align="center">Full Stack Developer & Data Scientist</h3>
+<h3 align="center">Full Stack Engineer | AI & Data Specialist</h3>
 
 ---
 
 <p align="center">
-  Greetings! I'm Ibrohim Ruzmetov, a developer driven by a passion for crafting robust full-stack applications and uncovering insights from data. My journey in Computer Science at WSEI fueled my fascination with how technology can solve complex problems, and I believe in harnessing its power to build a brighter, more intelligent future. I'm always eager for new challenges and opportunities to make an impact.
+  Greetings! I'm Ibrohim Ruzmetov, a dedicated Full Stack Engineer with a deep passion for crafting robust and scalable web applications. My expertise extends to Data Science and AI, where I focus on extracting meaningful insights and building intelligent solutions. My journey, including studies in Computer Science at WSEI, fuels my drive to solve complex problems and innovate. I believe in leveraging technology's full potential to create a smarter, more impactful future. I'm always seeking new challenges and collaborative opportunities to make a significant contribution.
 </p>
 
 <p align="center">
@@ -82,13 +82,14 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
 
 ## What I'm Up To
 
-* **Currently:** Enhancing my portfolio at [Ruzmetov.42web.io](http://Ruzmetov.42web.io) with fresh projects and insights.
-* **Learning:** Diving deeper into **advanced Data Science techniques** and exploring the ethical implications of AI development.
-* **Passionate About:** Building solutions that blend **robust engineering with intelligent data insights**.
+* **Currently:** Enhancing my portfolio at [Ruzmetov.42web.io](http://Ruzmetov.42web.io) with fresh projects and insights, focusing on **performance and user experience**.
+* **Learning:** Diving deeper into **Generative AI models** and advanced **cloud architecture patterns** for scalable applications.
+* **Passionate About:** Building impactful solutions that blend **robust engineering with intelligent data insights** to drive innovation.
 
 ---
 
 ## Let's Connect
+
 <p align="center">
   <a href="https://www.github.com/Rub4ik" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

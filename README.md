@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Ibrohim Ruzmetov</h1>
-<h3 align="center">Full Stack Architect & Data Visionary</h3>
+<h3 align="center">Full Stack Architect & Data Scientist</h3>
 
 ---
 

@@ -11,6 +11,12 @@
   Greetings! I'm Ibrohim Ruzmetov, a dedicated Full Stack Engineer with a deep passion for crafting robust and scalable web applications. My expertise extends to Data Science and AI, where I focus on extracting meaningful insights and building intelligent solutions. My journey, including studies in Computer Science at WSEI, fuels my drive to solve complex problems and innovate. I believe in leveraging technology's full potential to create a smarter, more impactful future. I'm always seeking new challenges and collaborative opportunities to make a significant contribution.
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0891b2&center=true&vCenter=true&width=430&lines=Im+focusing+on+performance+and+user+experience;Learning+Generative+AI+models;Diving+into+Cloud+Architecture;Building+impactful+solutions.;Blending+engineering+with+data+insights" alt="Typing Effect" />
+</div>
+
+---
+
 <p align="center">
   🌍 Based in Tashkent, Uzbekistan
   &nbsp; • &nbsp;

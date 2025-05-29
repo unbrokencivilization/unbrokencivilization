@@ -118,7 +118,7 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
   <a href="https://t.me/Thatweix" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://steamcommunity.com/id/Lahawlawalaquwwataillabillah/" target="_blank" rel="noreferrer">
+  <a href="https://steamcommunity.com/id/Ibrohimofficial/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
   <br><br>

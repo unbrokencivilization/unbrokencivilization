@@ -3,12 +3,12 @@
 </div>
 
 <h1 align="center">Ibrohim Ruzmetov</h1>
-<h3 align="center">Full Stack Developer | AI & ML engineer</h3>
+<h3 align="center">Full Stack Developer | AI & Data Scientist</h3>
 
 ---
 
 <p align="center">
-  Greetings! I'm Ibrohim Ruzmetov, a dedicated Full Stack Developer with a deep passion for crafting robust and scalable web applications. My expertise extends to ML and AI, where I focus on extracting meaningful insights and building intelligent solutions. My journey, including studies in BSc, MBA at WSEI, fuels my drive to solve complex problems and innovate. I believe in leveraging technology's full potential to create a smarter, more impactful future. I'm always seeking new challenges and collaborative opportunities to make a significant contribution.
+  Greetings! I'm Ibrohim Ruzmetov, a dedicated Full Stack Developer with a deep passion for crafting robust and scalable web applications. My expertise extends to ML and Data Science, where I focus on extracting meaningful insights and building intelligent solutions. My journey, including studies in BSc, MBA at WSEI, fuels my drive to solve complex problems and innovate. I believe in leveraging technology's full potential to create a smarter, more impactful future. I'm always seeking new challenges and collaborative opportunities to make a significant contribution.
 </p>
 
 <div align="center">

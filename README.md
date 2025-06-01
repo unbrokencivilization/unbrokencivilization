@@ -3,12 +3,12 @@
 </div>
 
 <h1 align="center">Ibrohim Ruzmetov</h1>
-<h3 align="center">Full Stack Developer | AI & Data Specialist</h3>
+<h3 align="center">Full Stack Developer | AI & ML engineer</h3>
 
 ---
 
 <p align="center">
-  Greetings! I'm Ibrohim Ruzmetov, a dedicated Full Stack Developer with a deep passion for crafting robust and scalable web applications. My expertise extends to Data Science and AI, where I focus on extracting meaningful insights and building intelligent solutions. My journey, including studies in Computer Science at WSEI, fuels my drive to solve complex problems and innovate. I believe in leveraging technology's full potential to create a smarter, more impactful future. I'm always seeking new challenges and collaborative opportunities to make a significant contribution.
+  Greetings! I'm Ibrohim Ruzmetov, a dedicated Full Stack Developer with a deep passion for crafting robust and scalable web applications. My expertise extends to ML and AI, where I focus on extracting meaningful insights and building intelligent solutions. My journey, including studies in BSc, MBA at WSEI, fuels my drive to solve complex problems and innovate. I believe in leveraging technology's full potential to create a smarter, more impactful future. I'm always seeking new challenges and collaborative opportunities to make a significant contribution.
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
   </p>
 
-  <h4>Data Science & AI</h4>
+  <h4>Machine Learning & AI</h4>
   <p>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40" height="40" alt="PyTorch" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="40" height="40" alt="TensorFlow" />

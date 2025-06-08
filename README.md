@@ -106,7 +106,7 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
   <a href="https://www.github.com/aimlfsd" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="http://www.instagram.com/aimlfsd" target="_blank" rel="noreferrer">
+  <a href="http://www.instagram.com/ibrokhim_rm" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.x.com/Ibrokhim_rm" target="_blank" rel="noreferrer">

@@ -122,7 +122,7 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
   <a href="mailto:ibruzmetov@yandex.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-ibruzmetov@yandex.com-blue?style=for-the-badge&logo=yandex&logoColor=white" alt="Email Me" />
+  <img src="https://img.shields.io/badge/Email-ibruzmetov@yandex.com-blue?style=for-the-badge&logo=yandex&logoColor=white" alt="Email Me" />
   </a>
   </p>
 

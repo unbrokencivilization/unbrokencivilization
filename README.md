@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Ibrohim Ruzmetov</h1>
-<h3 align="center">Full Stack Developer | AI & Data Scientist</h3>
+<h3 align="center">Full Stack Developer | AI & ML Engineer</h3>
 
 ---
 
@@ -109,7 +109,7 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
   <a href="http://www.instagram.com/Ibrokhim_rm" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.x.com/Ibrokhim_rm" target="_blank" rel="noreferrer">
+  <a href="https://www.x.com/aimlfsd" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
   <a href="https://www.twitch.tv/Thatweix" target="_blank" rel="noreferrer">
@@ -118,7 +118,7 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
   <a href="https://t.me/Thatweix" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://steamcommunity.com/id/Thatweix/" target="_blank" rel="noreferrer">
+  <a href="https://steamcommunity.com/id/aimlfsd/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
   <br><br>

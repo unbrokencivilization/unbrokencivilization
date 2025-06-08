@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" />
 </div>
 
-<h1 align="center">Ibrohim Ruzmetov</h1>
+<h1 align="center">Ibrohim</h1>
 <h3 align="center">Full Stack Developer | AI & ML Engineer</h3>
 
 ---

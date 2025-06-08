@@ -22,7 +22,7 @@
   &nbsp; • &nbsp;
   🖥️ Portfolio: <a href="http://Ruzmetov.42web.io" target="_blank">Ruzmetov.42web.io</a>
   &nbsp; • &nbsp;
-  ✉️ Connect: <a href="mailto:Thatweix@gmail.com">Thatweix@gmail.com</a>
+  ✉️ Connect: <a href="mailto:Thatweix@gmail.com">ibruzmetov@yandex.com</a>
 </p>
 
 ---

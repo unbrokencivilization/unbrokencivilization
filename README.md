@@ -22,7 +22,7 @@
   &nbsp; • &nbsp;
   🖥️ Portfolio: <a href="http://Ruzmetov.42web.io" target="_blank">Ruzmetov.42web.io</a>
   &nbsp; • &nbsp;
-  ✉️ Connect: <a href="mailto:Thatweix@gmail.com">ibruzmetov@yandex.com</a>
+  ✉️ Connect: <a href="mailto:aimlfsd@gmail.com">ibruzmetov@yandex.com</a>
 </p>
 
 ---
@@ -123,7 +123,7 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
   </a>
   <br><br>
   <a href="mailto:ibruzmetov@yandex.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-Thatweix@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Email-ibruzmetov@yandex.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>
 

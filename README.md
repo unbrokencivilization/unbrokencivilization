@@ -131,14 +131,14 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
 ## My GitHub Journey
 
 <div align="center">
-  <a href="http://www.github.com/Rub4ik">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rub4ik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ibrohim Ruzmetov's GitHub stats" />
+  <a href="http://www.github.com/aimlfsd">
+    <img src="https://github-readme-stats.vercel.app/api?username=aimlfsd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ibrohim Ruzmetov's GitHub stats" />
   </a>
-  <a href="http://www.github.com/Rub4ik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rub4ik&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Ibrohim Ruzmetov's GitHub Streak" />
+  <a href="http://www.github.com/aimlfsd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimlfsd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Ibrohim Ruzmetov's GitHub Streak" />
   </a>
-  <a href="https://github.com/Rub4ik">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rub4ik&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Ibrohim Ruzmetov's Top Languages" />
+  <a href="https://github.com/aimlfsd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimlfsd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Ibrohim Ruzmetov's Top Languages" />
   </a>
 </div>
 

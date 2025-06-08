@@ -115,14 +115,14 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
   <a href="https://www.twitch.tv/Thatweix" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
-  <a href="https://t.me/Thatweix" target="_blank" rel="noreferrer">
+  <a href="https://t.me/aimlfsd" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://steamcommunity.com/id/aimlfsd/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
   <br><br>
-  <a href="mailto:Thatweix@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:ibruzmetov@yandex.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-Thatweix@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>

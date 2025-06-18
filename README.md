@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0891b2&center=true&vCenter=true&width=430&lines=I'm+focusing+on+performance+and+user+experience;Learning+Generative+AI+models;Diving+into+Cloud+Architecture;Building+impactful+solutions.;Blending+engineering+with+data+insights" alt="Typing Effect: Current Focus Areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0891b2&center=true&vCenter=true&width=430&lines=Im+focusing+on+performance+and+user+experience;Learning+Generative+AI+models;Diving+into+Cloud+Architecture;Building+impactful+solutions.;Blending+engineering+with+data+insights" alt="Typing Effect: Current Focus Areas" />
 </div>
 
 ---

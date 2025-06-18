@@ -134,11 +134,11 @@ Here's a snapshot of the technologies and tools I wield to bring ideas to life a
 ## My GitHub Journey
 
 <div align="center">
-  <a href="http://www.github.com/aimlfsd">
-    <img src="https://github-readme-stats.vercel.app/api?username=aimlfsd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ibrohim Ruzmetov's GitHub stats" />
+  <a href="https://github.com/aimlfsd">
+    <img src="https://github-readme-stats.vercel.app/api?username=aimlfsd&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" alt="Ibrohim Ruzmetov's GitHub Stats" />
   </a>
   <a href="https://github.com/aimlfsd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimlfsd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Ibrohim Ruzmetov's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimlfsd&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
   </a>
 </div>
 

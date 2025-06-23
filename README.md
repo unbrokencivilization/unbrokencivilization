@@ -180,7 +180,7 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aimlfsd&theme=radical" alt="GitHub Trophies" />
-</p>✨
+</p>
 
 ---
 

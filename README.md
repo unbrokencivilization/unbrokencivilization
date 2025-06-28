@@ -145,12 +145,6 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
   <a href="http://www.instagram.com/ibrokhim_rm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.x.com/Ibrokhim_rm" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
-  </a>
-  <a href="https://www.twitch.tv/Thatweix" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
   <a href="https://t.me/aimlfsd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>

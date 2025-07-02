@@ -27,15 +27,15 @@
 
 ---
 
-## My Strategic Focus: What I'm Building & Exploring
+## 🚀 My Strategic Focus
 
 I'm always pushing the boundaries of what's possible, and here's a glimpse into what's currently occupying my mind and keyboard:
 
-* 🚀 **Performance & UX Optimization:** Diving deep into advanced techniques to ensure applications are not just functional but also blazingly fast and incredibly user-friendly. Think Lighthouse scores, critical rendering path optimization, and intuitive interface design.
-* 🧠 **Generative AI Models:** Actively exploring and experimenting with cutting-edge Generative AI models (e.g., LLMs, diffusion models) to understand their potential in creating dynamic content, automating tasks, and enhancing user interactions.
-* ☁️ **Cloud Architecture & Scalability:** Mastering cloud-native patterns and services (AWS/GCP/Azure) to design and deploy highly scalable, resilient, and cost-effective solutions capable of handling enterprise-level loads.
-* 💡 **Impactful Solution Development:** Translating complex challenges into elegant, efficient, and user-centric software solutions that deliver tangible value. Always asking: "How can this technology truly solve a problem?"
-* 📊 **Engineering with Data Insights:** Bridging the gap between robust engineering practices and intelligent data analysis to build systems that not only perform well but also learn, adapt, and provide valuable insights.
+- ⚡ **Performance & UX Optimization:** Deep diving into rendering pipelines, Lighthouse scores, and intuitive UI principles.
+- 🤖 **Generative AI Models:** Exploring LLMs, diffusion models, and prompt engineering to drive intelligent automation.
+- ☁️ **Cloud Architecture:** Mastering AWS, GCP, and Azure to deploy scalable, resilient systems.
+- 🛠️ **Impactful Solutions:** Turning complex problems into user-centric, elegant, and measurable software.
+- 📈 **Engineering with Data:** Merging software engineering and data insights for smart, adaptive systems.
 
 ---
 
@@ -118,19 +118,6 @@ A glance at the technologies and platforms I leverage to bring ideas from concep
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman" />
   </p>
 </div>
-
-
----
-
-## My Problem-Solving Journey: How I Work
-
-Beyond the tools, my true strength lies in my approach to challenges. Here's a glimpse into my methodology:
-
-* **1. Deconstruct & Understand:** I start by thoroughly breaking down complex problems into manageable components, ensuring a clear understanding of the core objective and potential roadblocks.
-* **2. Architect & Design:** Before writing a single line of code, I focus on designing robust, scalable, and maintainable architectures that can evolve and adapt to future needs.
-* **3. Iterate & Optimize:** I believe in agile development, delivering value incrementally. Continuous testing, feedback loops, and performance optimization are integral to my process.
-* **4. Innovate & Learn:** The tech landscape is always changing, and so am I. I dedicate time to exploring new technologies, paradigms, and best practices to ensure my solutions are always at the forefront.
-* **5. Impact & Deliver:** Ultimately, my goal is to deliver solutions that are not just technically sound but also drive tangible business value and create a positive user experience.
 
 ---
 

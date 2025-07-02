@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" alt="Animated GIF of a coding cat" />
+  <img src="images.png" width="200" alt="Ibrohim Animated Intro" />
 </div>
 
 <h1 align="center">Ibrohim Ruzmetov</h1>

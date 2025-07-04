@@ -20,7 +20,7 @@
 <p align="center">
   🌍 <strong>Based in:</strong> Tashkent, Uzbekistan
   &nbsp; • &nbsp;
-  🖥️ <strong>Portfolio:</strong> <a href="Link" target="_blank" rel="noopener noreferrer">https://aimlfsd.netlify.app</a>
+  🖥️ <strong>Portfolio:</strong> <a href="https://aimlfsd.netlify.app" target="_blank" rel="noopener noreferrer">https://aimlfsd.netlify.app</a>
   &nbsp; • &nbsp;
   ✉️ <strong>Connect:</strong> <a href="mailto:ibruzmetov@yandex.com" target="_blank" rel="noopener noreferrer">ibruzmetov@yandex.com</a>
 </p>

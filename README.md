@@ -166,5 +166,5 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
 ---
 
 <p align="center">
-  <i>Thank you for visiting my digital space. Let's build something extraordinary!✨</i>
+  Thank you for visiting my digital space. Let's build something extraordinary!✨
 </p>

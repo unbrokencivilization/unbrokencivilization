@@ -15,7 +15,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0891b2&,ADD8E6&center=true&vCenter=true&width=430&lines=Focusing+on+performance;Learning+Generative+AI+models;Diving+into+Cloud+Architecture;Building+impactful+solutions&duration=2000&cursor=solid" alt="Typing Effect: Current Focus Areas" />
 </div>
 
-
 ---
 
 <p align="center">

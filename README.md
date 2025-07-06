@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="animated.gif" width="150" alt="Ibrohim Animated Intro" />
+  <img src="animated.gif" width="200" alt="Ibrohim Animated Intro" />
 </div>
 
 <h1 align="center">Ibrohim Ruzmetov</h1>

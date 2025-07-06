@@ -126,9 +126,6 @@ A glance at the technologies and platforms I leverage to bring ideas from concep
 I'm always open to discussing new projects, innovative ideas, or opportunities to contribute to something impactful. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.github.com/aimlfsd" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="http://www.instagram.com/ibrokhim_rm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>

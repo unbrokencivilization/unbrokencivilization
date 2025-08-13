@@ -132,7 +132,7 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
   <a href="https://t.me/unbrokencivilization" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://steamcommunity.com/id/aimlfsd/" target="_blank" rel="noopener noreferrer">
+  <a href="https://steamcommunity.com/id/unbrokencivilization/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
   <a href="https://www.linkedin.com/in/unbrokencivilization/" target="_blank" rel="noopener noreferrer">

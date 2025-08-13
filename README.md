@@ -129,13 +129,13 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
   <a href="http://www.instagram.com/ibrokhim_rm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://t.me/aimlfsd" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/unbrokencivilization" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://steamcommunity.com/id/aimlfsd/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
-  <a href="https://www.linkedin.com/in/aimlfsd/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/unbrokencivilization/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ibruzmetov@yandex.com" target="_blank" rel="noopener noreferrer">

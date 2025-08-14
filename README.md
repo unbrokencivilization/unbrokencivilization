@@ -148,20 +148,20 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
 ## My GitHub Journey
 
 <div align="center">
-  <a href="https://github.com/aimlfsd">
-    <img src="https://github-readme-stats.vercel.app/api?username=aimlfsd&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" alt="Ibrohim Ruzmetov's GitHub Stats" />
+  <a href="https://github.com/unbrokencivilization">
+    <img src="https://github-readme-stats.vercel.app/api?username=unbrokencivilization&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" alt="Ibrohim Ruzmetov's GitHub Stats" />
   </a>
   <a href="https://github.com/aimlfsd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimlfsd&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unbrokencivilization&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aimlfsd&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=unbrokencivilization&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <p align="center">
   Thank you for visiting my digital space. Let's build something extraordinary!✨
-</p>
+</
